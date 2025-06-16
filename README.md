@@ -18,7 +18,8 @@
 ---
 
 ## 📸 Demo
-
+## 📷 Demo Screenshot
+![Youtube Summarizer in Action](Demo.png)  
 Paste a prompt like:
 
 ```text
