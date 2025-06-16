@@ -18,8 +18,11 @@
 ---
 
 ## 📸 Demo
-## 📷 Demo Screenshot
-![Youtube Summarizer in Action](Demo.png)  
+![Insta Code Gen in Action](Insta-Code-Gen-1.png)  
+![Insta Code Gen in Action](Insta-Code-Gen-2.png)  
+![Insta Code Gen in Action](Insta-Code-Gen-3.png)  
+![Insta Code Gen in Action](Insta-Code-Gen-4.png)  
+
 Paste a prompt like:
 
 ```text
