@@ -1,0 +1,9 @@
+streamlit 
+langchain 
+groq
+faiss-cpu
+googletrans 
+langdetect
+requests
+langchain-community
+langchain_openai
