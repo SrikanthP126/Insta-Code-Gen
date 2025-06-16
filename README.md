@@ -3,7 +3,7 @@
 
 **Insta Code Gen** is a multilingual, AI-powered code assistant that helps you generate, debug, and explain code using natural language prompts. It supports multiple programming languages, skill levels.
 
-> 🧠 Powered by: Groq + LangChain + Streamlit + FAISS
+> 🧠 Powered by: Groq + LangChain + Streamlit
 
 ---
 
@@ -13,9 +13,7 @@
 - ✅ Multilingual support (e.g., Telugu → English → Python)
 - ✅ Beginner / Intermediate / Expert explanation modes
 - ✅ Supports Python, JavaScript, C#, Java, Go, Rust
-- ✅ Retrieval Augmented Generation (RAG) using FAISS
 - ✅ Modular code structure (LangChain-friendly)
-- ✅ GitHub Repo Analyzer and Flow Visualizer (coming soon!)
 
 ---
 
@@ -38,11 +36,8 @@ And get the complete working code instantly ✨
 | UI | Streamlit |
 | LLM Backend | Groq API (OpenAI-compatible) |
 | Prompt Engine | LangChain |
-| Translation | Google Translate (googletrans) |
 | Embedding & Retrieval | FAISS + OpenAI Embeddings |
 | Language Detection | langdetect |
-| Context Builder | Custom Model Context Protocol (MCP) |
-| GitHub Flow Parsing | Python AST (coming soon) |
 
 ---
 
@@ -71,7 +66,7 @@ insta-code-gen/
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/insta-code-gen.git
+git clone https://github.com/SrikanthP126/Insta-Code-Gen.git
 cd insta-code-gen
 ```
 
@@ -115,7 +110,7 @@ PRs and suggestions welcome! Just open an issue or ping me on LinkedIn.
 
 ## 📬 Contact
 
-Built by [Your Name](https://www.linkedin.com/in/yourprofile)
+Built by [Srikanth Penta](https://www.linkedin.com/in/penta-srikanth/)
 
 ---
 
