@@ -1,7 +1,7 @@
 
 # 💻 Insta Code Gen
 
-**Insta Code Gen** is a multilingual, AI-powered code assistant that helps you generate, debug, and explain code using natural language prompts. It supports multiple programming languages, skill levels, and even multilingual input/output using Google Translate.
+**Insta Code Gen** is a multilingual, AI-powered code assistant that helps you generate, debug, and explain code using natural language prompts. It supports multiple programming languages, skill levels.
 
 > 🧠 Powered by: Groq + LangChain + Streamlit + FAISS
 
